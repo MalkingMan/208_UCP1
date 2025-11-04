@@ -1,10 +1,11 @@
 {
-  "name": "pertemuan-6-(ucp-1)",
+  "name": "pertemuan-6-ucp-1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
@@ -17,5 +18,14 @@
     "nodemon": "^3.1.10",
     "sequelize": "^6.37.7",
     "sequelize-cli": "^6.6.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalkingMan/208_UCP1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MalkingMan/208_UCP1/issues"
+  },
+  "homepage": "https://github.com/MalkingMan/208_UCP1#readme"
 }
